@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#757575</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#424242</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#E1F5FE</color>
+
+    <!-- Background color for the  indian music category -->
+    <color name="indian_color">#D32F2F</color>
+
+    <!-- Background color for the  western music category -->
+    <color name="western_color">#FFF3E0</color>
+
+    <!-- Background color for the  regional music category-->
+    <color name="regional_color">#FFC400</color>
+
+
+    </resources>

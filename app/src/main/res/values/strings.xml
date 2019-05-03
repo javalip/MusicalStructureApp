@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+
+
+    <string name="indian">Indian Music</string>
+    <string name="indian_activity_label">Indian Music</string>
+    <string name="western">Western Music</string>
+    <string name="western_activity_label">Western Music</string>
+    <string name="regional">Regional Music</string>
+    <string name="regional_activity_label">Regional Music</string>
+
+
+</resources>
