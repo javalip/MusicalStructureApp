@@ -40,12 +40,12 @@ public class SongAdapter extends ArrayAdapter<Song> {
 
         // Find the TextView in the list_item.xml layout with the ID version_number
         TextView albumTextView = (TextView) listItemView.findViewById(R.id.album_text_view);
-        // Get the version number from the current AndroidFlavor object and
-        // set this text on the number TextView
+        // Get the version number from the current Song object and
+        // set this text on the  TextView
         albumTextView.setText(currentSong.getNameOfalbum());
 
 
-        // Return the whole list item layout (containing 2 TextViews and an ImageView)
+        // Return the whole list item layout
         // so that it can be shown in the ListView
         return listItemView;
     }

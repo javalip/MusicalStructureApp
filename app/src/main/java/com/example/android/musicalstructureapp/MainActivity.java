@@ -6,6 +6,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+/***
+ * Material design colors, icons
+ * stack overflow for lot of code
+ * Mentor from udacity helped
+ * Foreverythign else Udacity Tutorials :(
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
